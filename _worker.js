@@ -129,7 +129,7 @@ export default {
 
                         let secretKey = await env.bpb.get('secretKey');
                         const pwd = await env.bpb.get('pwd');
-                        if (!pwd) await env.bpb.put('pwd', '147C258a369S');
+                        if (!pwd) await env.bpb.put('pwd', 'administor');
 
                         if (!secretKey) {
                             secretKey = generateSecretKey();
