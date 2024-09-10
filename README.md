@@ -3,7 +3,7 @@
 ### 🌏 Readme in [Farsi](README_fa.md)
 
 <p align="center">
-  <img src="docs/assets/images/Panel.jpg">
+  <img src="https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/assets/images/Panel.jpg">
 </p>
 <br>
 
